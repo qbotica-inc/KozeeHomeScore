@@ -1,0 +1,11 @@
+Street:4610 N 24th Pl
+Restaurants:0
+WalkScore:65
+TransitScore:49
+BikeScore:67
+HeatingType: Forced Air
+PhyiscalCondition: Average
+BuildingConstructionQuality: Good
+ExteriorWall: Frame Wood
+BuildingType: Residential
+NofParkingSpaces: 2
